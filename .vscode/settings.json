@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "animation.C": "cpp",
+        "son.C": "cpp",
+        "sdl_mixer.h": "c",
+        "stdbool.h": "c"
+    }
+}
